@@ -13,3 +13,5 @@
 #include <stdbool.h>
 
 void exit_cmd(char **command, char *line);
+
+#endif /* SHELL_H */
